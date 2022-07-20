@@ -2,6 +2,6 @@
 
 The controller reads from the sensors. On crossing a certain thresold value, defined as 'thresh' in the controller script, the necessary motor actuations are performed.
 
-![gif](https://user-images.githubusercontent.com/79185485/179839273-b58d9d20-c587-4f95-bd08-008e0ef9618a.gif)
+https://user-images.githubusercontent.com/79185485/179929785-f91df054-ad29-4540-9cad-84d35fe5f569.mp4
 
 An example video demonstrating the e-puck robot trying to navigate through a structure.
